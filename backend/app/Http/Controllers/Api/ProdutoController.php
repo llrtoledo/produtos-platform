@@ -55,6 +55,8 @@ class ProdutoController extends Controller
         ], 201);
     }
 
+
+
     /**
      * Display the specified resource.
      */
